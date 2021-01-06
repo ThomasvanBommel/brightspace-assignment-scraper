@@ -1,0 +1,14 @@
+{
+  "name": "brightspace-assignment-scraper",
+  "version": "1.0.0",
+  "description": "Scrapes assignments from brightspace incrementally",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Thomas vanBommel",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^5.5.0"
+  }
+}
