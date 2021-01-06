@@ -1,6 +1,6 @@
 {
   "name": "brightspace-assignment-scraper",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Scrapes assignments from brightspace incrementally",
   "main": "app.js",
   "scripts": {
