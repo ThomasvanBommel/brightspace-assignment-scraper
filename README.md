@@ -9,7 +9,7 @@ Scrapes assignments from a brightspace class incrementally by url
 ### Example Usage
 
 ```js
-const { scrapeAssignments } = require("./brightspace-scraper");
+const { scrapeAssignments } = require("brightspace-assignment-scraper");
 
 scrapeAssignments(
   "user",
